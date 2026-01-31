@@ -29,26 +29,25 @@ This project performs complete **CRUD operations** (Create, Read, Update, Delete
 ## 📁 Project Structure
 
 CRUD-ADD-OPERARTIONS
-│
 ├── public
 ├── src
-│ ├── assets
-│ ├── CRUD-OPERATIONS
-│ │ ├── Create.jsx
-│ │ ├── Delete.jsx
-│ │ ├── Home.jsx
-│ │ ├── Read.jsx
-│ │ └── Update.jsx
-│ ├── App.css
-│ ├── App.jsx
-│ ├── index.css
-│ └── main.jsx
-│
+│   ├── assets
+│   ├── CRUD-OPERATIONS
+│   │   ├── Create.jsx
+│   │   ├── Read.jsx
+│   │   ├── Update.jsx
+│   │   ├── Delete.jsx
+│   │   └── Home.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
 ├── db.json
 ├── index.html
 ├── package.json
 ├── vite.config.js
 └── README.md
+
 
 
 
